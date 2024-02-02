@@ -6,9 +6,15 @@ DISCLAIMER: This repository is provided without any warranty or gurantee of accu
 Critical Infrastructure Protection (CIP) is a set of standards designed to protect the North American Bulk Electric System (BES).  CIP is a reliability standard, so while it has a lot of focus on security, proper documentation, and change management procedures, the underlying motive is to ensure the power grid stays up.  CIP is a complex set of standards and leaves a lot open to interpretation with regards to technical requirements.  There's no common tooling to ensure CIP requirements are met, so the aim of this project is to ease many of the simple but time-consuming tasks.
 
 ### The CIP Standards
+Note that the standards are designated by a number followed by another number.  These are the ID of the standard and the version of the standard.  For example, CIP-010-4 is CIP Standard number 10, version 4.  When talking about CIP, this would be called "sip ten" or "sip zero ten".
+
 | Standard Name | Title | Summary |
 |---------------|-------|---------|
-|CIP-002-5.1a*|Cyber Security - BES Cyber System Categorization|This standard requires assets to be categorized when commissioned and again every 15 calendar months (a "CIP year").|
+| CIP-002-5.1a | Cyber Security - BES Cyber System Categorization |This standard requires assets to be categorized when commissioned and again every 15 calendar months (a "CIP year").|
+| CIP-003-8 | Cyber Security - Security Management Controls | CIP-003 is focused on policy.  It requires specific policies to be created and reviewed every 15 calendar months.  It also requires naming (by name) a CIP Senior Manager who is accountable for these policies.|
+| CIP-004-7 | Cyber Security - Personnel & Training | This one defines who you can give access to CIP assets and information and what must be done before access is permitted.  It also outlines requirements for training, onboarding and offboarding, and managing access.|
+| CIP-005-7 | Cyber Security - Electronic Security Perimeter(s) | This Standard requires implementing one or more Electronic Security Perimiters (ESP), i.e. behind a firewall.  Certain systems are required to reside in an ESP based on their Category from CIP-002. |
+| CIP-006-6 | Cyber Security - Physical Security of BES Cyber Systems | This Standard outlines requirements for Physical Access Control Systems (PACS), handling visitors, and testing the Physical Security Perimiter (PSP) every 24 calendar months. |
 
 ## Tools to build
 - [ ] Build a questionnaire tool to ensure repetetive CIP tasks are taking place. Possible yearly calendar mock-up?
