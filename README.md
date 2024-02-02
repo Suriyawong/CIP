@@ -12,7 +12,7 @@ Note that the standards are designated by a number followed by another number.  
 |---------------|-------|---------|
 | CIP-002-5.1a | Cyber Security - BES Cyber System Categorization |This standard requires assets to be categorized when commissioned and again every 15 calendar months (a "CIP year").|
 | CIP-003-8 | Cyber Security - Security Management Controls | CIP-003 is focused on policy.  It requires specific policies to be created and reviewed every 15 calendar months.  It also requires naming (by name) a CIP Senior Manager who is accountable for these policies.|
-| CIP-004-7 | Cyber Security - Personnel & Training | This one defines who you can give access to CIP assets and information and what must be done before access is permitted.  It also outlines requirements for training, onboarding and offboarding, and managing access.|
+| CIP-004-7 | Cyber Security - Personnel & Training | This one defines requirements for background checks, onboarding and offboarding,  training, and managing access. |
 | CIP-005-7 | Cyber Security - Electronic Security Perimeter(s) | This Standard requires implementing one or more Electronic Security Perimiters (ESP), i.e. behind a firewall.  Certain systems are required to reside in an ESP based on their Category from CIP-002. |
 | CIP-006-6 | Cyber Security - Physical Security of BES Cyber Systems | This Standard outlines requirements for Physical Access Control Systems (PACS), handling visitors, and testing the Physical Security Perimiter (PSP) every 24 calendar months. |
 
