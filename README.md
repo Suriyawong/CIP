@@ -8,6 +8,7 @@ Critical Infrastructure Protection (CIP) is a set of standards designed to prote
 ### The CIP Standards
 | Standard Name | Title | Summary |
 |---------------|-------|---------|
+|CIP-002-5.1a*|Cyber Security - BES Cyber System Categorization|This standard requires assets to be categorized when commissioned and again every 15 calendar months (a "CIP year").|
 
 ## Tools to build
 - [ ] Build a questionnaire tool to ensure repetetive CIP tasks are taking place. Possible yearly calendar mock-up?
