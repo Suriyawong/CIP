@@ -22,7 +22,7 @@ Note that the standards are designated by a number followed by another number.  
 | CIP-011-3 | Cyber Security - Information Protection | This Standard sets out to identify, protect, and handle BES Cyber System Information (BCSI).  It also defines requirements for sanitization or disposal of devices that contain BCSI. |
 | CIP-012-1 | Cyber Security - Communications between Control Centers | This Standard requires a plan to mitigate risk of disclosing real-time data while it's being transmitted between Control Centers, including for voice transmission. |
 | CIP-013-2 | Cyber Security - Supply Chain Risk Management | CIP-013 probably isn't anyone's favorite, but following breaches like SolarWinds in 2020 it's become important.  It requires a plan to document risk management processes used when buying equipment and software.  It also requires notification from vendors regarding incidents that pose a cyber security risk, disclosure of vulnerabilities, and integrity validation. |
-| CIP-014-3 | Physical Security | As you can guess, this Standard defines things like risk assessments of physical assets like Transmission stations and substations.  It requires evaluating potential threats to physical assets and developing a security plan. |
+| CIP-014-3 | Physical Security | As you can guess, this Standard defines things like risk assessments of physical assets such as Transmission stations and substations.  It requires evaluating potential threats to physical assets and developing a security plan. |
 
 
 ## Tools to build
